@@ -8,3 +8,5 @@ How can I become someone who is impossible to read?
 
 Also does Markdown work with Facebook posts? 
 I'm curious like genuinely curious.
+
+For example, I can quickly insert a period after the end of a sentence, like this. 

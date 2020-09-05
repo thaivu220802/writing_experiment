@@ -1,4 +1,5 @@
-#Title
+# Title
 
 This is just a first draft of my essay. 
 I'm still working on how to work with Markdown.
+But I do firmly believe Markdown can help me tremendously with my writing and stuff like that.
